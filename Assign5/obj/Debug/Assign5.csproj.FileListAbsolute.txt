@@ -1,0 +1,11 @@
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\bin\Debug\Assign5.exe.config
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\bin\Debug\Assign5.exe
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\bin\Debug\Assign5.pdb
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.csprojAssemblyReference.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.Form1.resources
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.Properties.Resources.resources
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.csproj.GenerateResource.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.exe
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.pdb
+C:\Users\sumra\Desktop\Projects\c# projects\Assign5\Assign5\obj\Debug\Assign5.SplashScreen.resources
